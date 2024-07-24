@@ -1,0 +1,7 @@
+{
+    "version": "3.8",
+    "entry_point": "FirstTool_1_0/main.pyz",
+    "tool_package": "ayx_plugins",
+    "tool_name": "FirstTool",
+    "additional_pythonpaths": []
+}

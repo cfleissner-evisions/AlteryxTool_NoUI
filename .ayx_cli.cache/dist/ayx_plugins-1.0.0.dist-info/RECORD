@@ -1,0 +1,13 @@
+ayx_plugins-1.0.0.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+ayx_plugins-1.0.0.dist-info/METADATA,sha256=3CyNjVIMIp-uAGEAH1F_O3NdnJlFMRNfJydw1OStmlI,224
+ayx_plugins-1.0.0.dist-info/RECORD,,
+ayx_plugins-1.0.0.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ayx_plugins-1.0.0.dist-info/WHEEL,sha256=Wyh-_nZ0DJYolHNn1_hMa4lM7uDedD_RGVwbmTjyItk,91
+ayx_plugins-1.0.0.dist-info/direct_url.json,sha256=UOu4AQpNwOw_UAzxZpheX_NyH-eQyey9XMOYrfZ02Gs,89
+ayx_plugins-1.0.0.dist-info/top_level.txt,sha256=W5LlMln6bDR28RBXDPP0UEmxW5GMp-JjAgdhv6cJ0kA,12
+ayx_plugins/__init__.py,sha256=45NyL0-ILRDe4GLiOEdZyL54WKH1kDEyk4JtpUFB2Pg,731
+ayx_plugins/__pycache__/__init__.cpython-38.pyc,,
+ayx_plugins/__pycache__/first_tool.cpython-38.pyc,,
+ayx_plugins/__pycache__/second_tool.cpython-38.pyc,,
+ayx_plugins/first_tool.py,sha256=IcD2sYZYxDISRC4CpqvnnqSFU3vKVtK-9HA5pYUIlwI,2943
+ayx_plugins/second_tool.py,sha256=P57COE5D6dQNOLQ8eIYIsrgZv2NzNIg6_2o4Kd6jmQ4,3019

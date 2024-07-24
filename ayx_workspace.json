@@ -1,0 +1,79 @@
+{
+    "name": "NoUI",
+    "tool_category": "Education",
+    "package_icon_path": "configuration/default_package_icon.png",
+    "author": "Chris Fleissner",
+    "company": "Evisions",
+    "copyright": "2024",
+    "description": "Making the life of administrators easier",
+    "ayx_cli_version": "1.2.0",
+    "backend_language": "python",
+    "backend_language_settings": {
+        "python_version": "3.8",
+        "requirements_local_path": "backends/requirements-local.txt",
+        "requirements_thirdparty_path": "backends/requirements-thirdparty.txt"
+    },
+    "tools": {
+        "FirstTool": {
+            "backend": {
+                "tool_module": "ayx_plugins",
+                "tool_class_name": "FirstTool"
+            },
+            "ui": {},
+            "configuration": {
+                "long_name": "FirstTool",
+                "description": "My first tool",
+                "version": "1.0",
+                "search_tags": [],
+                "help_url": "https://help.alteryx.com/developer-help",
+                "icon_path": "configuration/FirstTool_1_0/icon.png",
+                "input_anchors": {
+                    "Input": {
+                        "label": "",
+                        "allow_multiple": false,
+                        "optional": false
+                    }
+                },
+                "output_anchors": {
+                    "Output": {
+                        "label": "",
+                        "allow_multiple": false,
+                        "optional": false
+                    }
+                },
+                "dcm_namespace": ""
+            }
+        },
+        "SecondTool": {
+            "backend": {
+                "tool_module": "ayx_plugins",
+                "tool_class_name": "SecondTool"
+            },
+            "ui": {},
+            "configuration": {
+                "long_name": "SecondTool",
+                "description": "Second tool",
+                "version": "1.0",
+                "search_tags": [],
+                "help_url": "https://help.alteryx.com/developer-help",
+                "icon_path": "configuration/SecondTool_1_0/icon.png",
+                "input_anchors": {
+                    "Input": {
+                        "label": "",
+                        "allow_multiple": false,
+                        "optional": false
+                    }
+                },
+                "output_anchors": {
+                    "Output": {
+                        "label": "",
+                        "allow_multiple": false,
+                        "optional": false
+                    }
+                },
+                "dcm_namespace": ""
+            }
+        }
+    },
+    "tool_version": "1.0"
+}
