@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 from ayx_python_sdk.core import Anchor
 from ayx_python_sdk.core.testing import BatchTuple, SdkToolTestService
 
