@@ -6,6 +6,7 @@
 		<CustomParameters>
 			<Version Value="2.4.0"/>
 			<ToolVersion Value="1.0"/>
+			<WritesOutputData Value="False"/>
 		</CustomParameters>
 	</SdkSettings>
 	<GuiSettings Html="index.html" Icon="icon.png" SDKVersion="10.1" Help="https://help.alteryx.com/developer-help">

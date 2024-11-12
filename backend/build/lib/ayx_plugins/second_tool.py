@@ -49,7 +49,7 @@ class SecondTool(PluginV2):
         anchor
             A namedtuple('Anchor', ['name', 'connection']) containing input connection identifiers.
         """
-        batch.append_column("new_column", ["new_value"] * batch.num_rows)
+        batch.append_column("new_column", ["new_value"] * len(batch))
         self.provider.write_to_anchor("Output", batch)
 
     def on_incoming_connection_complete(self, anchor: Anchor) -> None:
