@@ -1,5 +1,5 @@
 {
-    "version": "3.12.6",
+    "version": "3.10.13",
     "entry_point": "FirstTool_1_0/main.pyz",
     "tool_package": "ayx_plugins",
     "tool_name": "SecondTool",
